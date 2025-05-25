@@ -27,7 +27,7 @@ Mengurangi barang hilang di kampus dan mempermudah proses pelaporan serta pencar
 ### 🛠️ Teknologi yang Digunakan
 
 * **Laravel** (PHP Framework)
-* **HTML5 & CSS3**
+* **HTML & CSS**
 * **JavaScript (Opsional)**
 * **Git & GitHub** (versi kontrol dan kolaborasi)
 * **MySQL** (basis data)
@@ -103,4 +103,4 @@ Mengurangi barang hilang di kampus dan mempermudah proses pelaporan serta pencar
 ### 📬 Kontak
 
 Kalau ada pertanyaan, ide, atau saran, silakan kirim email ke:
-📧 [jessicahlw@example.com](mailto:jessicadesyanti@gmail.com)
+📧jessicadesyanti@gmail.com)
